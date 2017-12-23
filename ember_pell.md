@@ -1,5 +1,5 @@
 #ember pell
 
-righ text editor
+righ text editor 
 
 <https://emberobserver.com/addons/ember-pell>
